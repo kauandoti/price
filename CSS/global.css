@@ -6,4 +6,23 @@
     border:0;
     font-family: 'Karla', sans-serif;
     
-    }
+}
+
+main {
+    padding-top: 4.5rem;
+    padding-inline: 2rem;
+}
+
+h1 {
+    font-size: 1.25rem;
+    color: var(--Cyan);
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+}
+
+h2 {
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    color: white;
+}

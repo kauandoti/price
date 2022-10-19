@@ -1,17 +1,14 @@
-main {
-    padding-top: 4.5rem;
-    padding-inline: 2rem;
+.superior {
+    padding-inline: 1.5rem;
+    padding-top: 2rem;
+    padding-top: 2rem;
+    border-top: 0.3125rem;
+    background-color: white;
 }
 
-h1 {
-    font-size: 1.25rem;
-    color: var(--Cyan);
-    line-height: 1.5rem;
-    margin-bottom: 1.5rem;
-}
-
-h2 {
-    font-size: 1.125rem;
-    line-height: 1.375rem;
-    color: white;
+.p1 {
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Bright-Yellow);
+    margin-bottom: 1rem;
 }
