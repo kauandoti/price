@@ -12,3 +12,68 @@
     color: var(--Bright-Yellow);
     margin-bottom: 1rem;
 }
+
+.p2 {
+    line-height: 1.625rem;
+    color: var(--Grayish-Blue);
+    line-height: 0.875rem;
+}
+
+.esquerda {
+    background-color: cyan;
+    padding-inline: 1.5rem;
+}
+
+.p-lula {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.375rem;
+}
+
+.p-lula2 {
+    color: white;
+    opacity: 0.5;
+}
+
+.esquerda div {
+    display: flex;
+    vertical-align: middle;
+    margin-bottom: 0.25rem;
+}
+
+.p-lula {
+    padding-right: 0.75rem;
+}
+
+.esquerda p {
+    color: white;
+    line-height: 1.625rem;
+    margin-bottom: 1.625rem;
+}
+
+.esquerda button {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 100%;
+    color: white;
+    font-size: 1rem;
+    line-height: 1.125rem;
+    border: 0;
+    background-color: var(--Bright-Yellow);
+    border-radius: 0.3125rem;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.0973011)
+}
+
+.direita {
+    background-color: lightcyan;
+    padding: 1.5rem;
+    border-bottom: 848.3125rem;
+}
+
+.direita p {
+    line-height: 1.25rem;
+    font-size: 0.875rem;
+    color: white;
+    opacity: 0.75;
+}
